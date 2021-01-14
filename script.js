@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://piotr1992.github.io/2';
+  var apiRoot = 'https://www.wp.pl/';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
